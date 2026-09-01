@@ -85,11 +85,11 @@ Plugin customizado para Capacitor criado para permitir maior controle sobre a St
 
 ## 🌎 Sobre mim
 
-💻 Desenvolvedor Full-Stack com forte experiência em Front-end & Mobile
-🎓 Graduado em Engenharia Elétrica
-🇧🇷 Brasil
-🌎 Interesse em oportunidades remotas e internacionais
-📚 Sempre buscando evoluir como desenvolvedor de software
+💻 Desenvolvedor Full-Stack com forte experiência em Front-end & Mobile <br>
+🎓 Graduado em Engenharia Elétrica <br>
+🇧🇷 Brasil <br>
+🌎 Interesse em oportunidades remotas e internacionais <br>
+📚 Sempre buscando evoluir como desenvolvedor de software <br>
 
 ---
 
