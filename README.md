@@ -85,11 +85,11 @@ Custom Capacitor plugin created to provide additional control over the Android s
 
 ## 🌎 About me
 
-💻 Full-Stack Developer with a strong Front-end & Mobile background
-🎓 Electrical Engineering graduate
-🇧🇷 Based in Brazil
-🌎 Interested in remote and international opportunities
-📚 Always learning and improving my software development skills
+💻 Full-Stack Developer with a strong Front-end & Mobile background <br>
+🎓 Electrical Engineering graduate <br>
+🇧🇷 Based in Brazil <br>
+🌎 Interested in remote and international opportunities <br>
+📚 Always learning and improving my software development skills <br>
 
 ---
 
